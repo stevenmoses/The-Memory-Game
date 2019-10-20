@@ -1,11 +1,11 @@
-## The-Memory-Game
+# The-Memory-Game
 This is Memory Game contains two games mode inside :  
 - Matching Numbers 
 - Find the Numbers
 
 Both games were made to train your skills in memorizing numbers. 
 
-# Created by : 
+## Created by : 
 
  Group 13 :
 
@@ -14,11 +14,11 @@ Both games were made to train your skills in memorizing numbers.
 
 Undergraduate Computer Engineering student of University of Indonesia
 
-# How to Get the Game :
+## How to Get the Game :
 
 Run the (.c) file in a C/C++ compiler. Recommended compiler : Bloodshed Dev C/C++, CodeBlocks.
 
-# Guides :
+## Guides :
 - **Matching Numbers**
 
   You will be given 2 rows of numbers. Match the numbers on each row by clicking the numbers that you have memorized before.
@@ -29,7 +29,7 @@ Run the (.c) file in a C/C++ compiler. Recommended compiler : Bloodshed Dev C/C+
   you will be asked where those numbers are. You can find them by clicking the numbers on the square where you have memorized
   before.
   
-# How Good is This Program?
+## How Good is This Program?
 - **You just have to click!**
 
   Yes, we use Windows API in this program. Windows API enables you to make an independent window for your program. For this 
@@ -41,6 +41,6 @@ Run the (.c) file in a C/C++ compiler. Recommended compiler : Bloodshed Dev C/C+
   The games is actually fun! It expands your imagination and helps you practice your memorizing skills. Available in two
   modes, where one is easier and the other one is harder (it's much harder actually).
   
-# More Information : 
+## More Information : 
 For more information about this game, you can open [this link.](https://drive.google.com/file/d/1XfGxQFvpRSYnss8Zhp4innszDsiJl5fX/view?usp=sharing).
 
